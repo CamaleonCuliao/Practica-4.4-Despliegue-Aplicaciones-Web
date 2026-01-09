@@ -1,6 +1,6 @@
 # Arquitectura del proyecto
 ## Diagrama general
-![/img/arquitectura.jpg]
+![imagen placeholder] (/img/arquitectura.jpg)
 
 ## Explicacion tecnica
 El usuario ve la pagina web, la cual esta conectada a una base de datos en un servidor a traver de NodeJS
