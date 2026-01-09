@@ -2,11 +2,11 @@
 Practica para aprender a usar Markdown y GitHub pages
 
 ## ToDo List
-- [] Index
-- [] Introducción
-- [] Instalación
-- [] Uso
-- [] Arquitectura
-- [] Conclusion
-- [] Referencias
+- [x] Index
+- [x] Introducción
+- [x] Instalación
+- [x] Uso
+- [x] Arquitectura
+- [x] Conclusion
+- [x] Referencias
 
