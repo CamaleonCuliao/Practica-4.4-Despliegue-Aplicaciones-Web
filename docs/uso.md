@@ -1,16 +1,16 @@
-#Uso de aplicacion
+# Uso de aplicacion
 
-##Tipo de usuarios
+## Tipo de usuarios
 - Admin
 - Usuario registrado
 - Invitado
 - Vendedor
 
-##Casos de uso
+## Casos de uso
 - Comprar productos
 - Cancelar pedidos
 - Vender productos
 
 
-##Capturas
+## Capturas
 ![/img/placeholder.png]
