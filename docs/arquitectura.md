@@ -1,9 +1,9 @@
-#Arquitectura del proyecto
-##Diagrama general
+# Arquitectura del proyecto
+## Diagrama general
 ![/img/arquitectura.jpg]
 
-##Explicacion tecnica
+## Explicacion tecnica
 El usuario ve la pagina web, la cual esta conectada a una base de datos en un servidor a traver de NodeJS
 
-##Tecnologías empleadas
+## Tecnologías empleadas
 ANGULAR - |HTML CSS TS| BACKEND|NODEJS|BASE DE DATOS|MySQL|

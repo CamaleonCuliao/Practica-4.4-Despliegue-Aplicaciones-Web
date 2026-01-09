@@ -1,7 +1,7 @@
-#Documentacion y uso de OpenMusic
+# Documentacion y uso de OpenMusic
 OpenMusic es mi proyecto de final de curso,  se tratara de una aplicacion Angular con NodeJS que servira como tienda de albumes y merch de bandas musicales
 
-##Indice
+## Indice
 - Introduccion
 - Instalacion
 - Uso
