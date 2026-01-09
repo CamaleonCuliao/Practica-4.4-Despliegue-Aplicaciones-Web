@@ -13,4 +13,5 @@
 
 
 ## Capturas
-![/img/placeholder.png]
+<img width="960" height="960" alt="placeholder" src="https://github.com/user-attachments/assets/59f5ac35-87ae-443a-802d-f85089100d2b" />
+
